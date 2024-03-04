@@ -111,6 +111,31 @@ h2 {
   vertical-align: middle;
   margin: 5px;
 }
+.career-objective-container {
+  margin-top: 30px;
+  margin-left: 60px;
+}
+
+.career-objective-container hr {
+  border: 1px solid lightgray;
+  width: 75%;
+  margin-left: 5cm;
+}
+
+.career-objective-card {
+  margin: 0 15px 15px 30px;
+  padding-bottom: 5px;
+}
+
+.career-objective-card h3 {
+  font-size: 25px;
+  margin-left: 30px;
+}
+
+.career-objective-card li {
+  font-size: 20px;
+  margin-left: 30px;
+}
 
 /* Skills */
 
